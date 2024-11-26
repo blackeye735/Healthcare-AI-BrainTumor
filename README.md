@@ -16,7 +16,7 @@ Brain Tumor Detection using MRI is an AI-powered project that uses deep learning
 
 ## Getting Started
 ### Clone this repository:
-- git clone https://github.com/subhashreegre/Healthcare-AI-BrainTumor.git
+- git clone https://github.com/blackeye735/Healthcare-AI-BrainTumor.git
 - cd Healthcare-AI-BrainTumor
 - Install the required dependencies:
 - pip install -r requirements.txt
